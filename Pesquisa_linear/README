@@ -1,0 +1,6 @@
+Para testar o código, apenas executar no link disponibilizado abaixo.
+Na função main é criado um vetor manualmente, que é testado com a função de busca.
+Junto foram inclusos dois testes, um buscando um elemento presente na lista, e outro 
+não, atendento a descrição do exercício.
+
+O teste de código está disponível em: https://onlinegdb.com/prPk25fMZ

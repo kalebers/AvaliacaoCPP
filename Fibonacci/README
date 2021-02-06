@@ -1,0 +1,12 @@
+Para testar o código pelo onlinegdb, executar o programa que irá pedir um número de entrada no console.
+O programa irá retornar o número da sequência de Fibonacci equivalente a entrada.
+Para testar e validar, compare com alguns exemplos abaixo:
+Fibonacci(12) = 144
+Fibonacci(37) = 24157817
+Fibonacci(21) = 10946
+
+Para calcular o númeroda sequência, decidi utilizar um for, pois assim o tempo de execução foi linear. 
+Caso utilizasse uma aboradegem recursiva, o tempo passaria a ser exponencial e poderia estourar a pilha 
+de execução para números de entrada muito grandes. 
+
+O teste de código está disponível em: https://onlinegdb.com/OEF2eaYLP

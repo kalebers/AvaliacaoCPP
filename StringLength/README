@@ -1,0 +1,7 @@
+Para testar o código, apenas executar no link disponibilizado abaixo, inserindo uma string/frase
+no console da ferramenta online.
+O programa irá retornar o número de caracteres presentes na string.
+OBS: caracteres acentuados são contados como tamanho 2. Nos meus testes, pude verificar que 
+a função std::string.length possui o mesmo comportamento. 
+
+O teste de código está disponível em: https://onlinegdb.com/JnF2Ns1e_
